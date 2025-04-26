@@ -14,6 +14,7 @@ The SummifyAI is a versatile application built with Streamlit that enables users
 ## 📋 Requirements
 
 - Python 3.10
+- Langchain Framework
 - Groq API Key ([Get one here](https://console.groq.com/))
 
 ## 🧰 How It Works
